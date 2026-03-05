@@ -4,4 +4,4 @@
 
 | Date          | Description                                                          | Status    |
 | :------------ | :------------------------------------------------------------------- | :-------- |
-| 05-March-2026 | Learned basic python and solved all the question from Practice Set-1 | Completed |
+| 05-March-2026 | Learned basic python syntax and solved all the questions from Practice Set-1 | Completed |
