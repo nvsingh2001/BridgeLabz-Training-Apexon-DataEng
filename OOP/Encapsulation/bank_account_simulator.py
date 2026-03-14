@@ -1,6 +1,6 @@
 class BankAccount:
     def __init__(self, account_holder_name, balance):
-        self.account_holder_name = account_holder_name
+        self._account_holder_name = account_holder_name
         self.__balance = balance
 
     def withdraw(self, amount):
@@ -29,3 +29,5 @@ print(my_account.balance)
 my_account.withdraw(1000000)
 my_account.withdraw(10000)
 print(my_account.balance)
+print(my_account._account_holder_name)
+print(my_account._BankAccount__balance)
