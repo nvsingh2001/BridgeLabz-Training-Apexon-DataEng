@@ -36,3 +36,8 @@ cat = Cat("Meow", 1)
 
 
 cat.speak()
+
+print(isinstance(type, object))
+print(isinstance(object, type))
+print(issubclass(object, type))
+print(isinstance(type, object))
