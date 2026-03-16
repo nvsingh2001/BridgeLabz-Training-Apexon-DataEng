@@ -1,0 +1,19 @@
+{
+  "1": {
+    "name": "Naman Vinay Singh",
+    "age": 21,
+    "gender": "Male",
+    "location": { "city": "Japlaiguri", "country": "India" }
+  },
+  "2": {
+    "name": "Arjun",
+    "age": 22,
+    "location": { "city": "Mumbai", "country": "India" }
+  },
+  "3": {
+    "name": "Ayush",
+    "age": 23,
+    "location": { "city": "Noida", "country": "India" }
+  }
+}
+
