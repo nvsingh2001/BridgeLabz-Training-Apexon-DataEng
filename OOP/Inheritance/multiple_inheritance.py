@@ -20,3 +20,10 @@ class D(B, C):
 
 d = D()
 d.name()
+
+print(D.__mro__)
+
+print(type.__mro__)
+
+
+print(repr(type))

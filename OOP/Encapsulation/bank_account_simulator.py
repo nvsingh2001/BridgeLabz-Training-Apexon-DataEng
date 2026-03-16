@@ -23,6 +23,10 @@ class BankAccount:
     def balance(self):
         return self.__balance
 
+    @balance.setter
+    def balance(self, balance):
+        self.__balance = balance
+
 
 my_account = BankAccount("Naman", 100000)
 print(my_account.balance)
