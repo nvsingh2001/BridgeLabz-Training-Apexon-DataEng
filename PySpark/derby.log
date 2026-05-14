@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 10 22:15:22 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019e-12c7-7629-000002dc5e08 
+on database directory /home/ares/projects/BridgeLabz-Training-Apexon-DataEng/PySpark/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/opt/spark/jars/derby-10.16.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=21.0.10+7-Ubuntu-125.10
+user.dir=/home/ares/projects/BridgeLabz-Training-Apexon-DataEng/PySpark
+os.name=Linux
+os.arch=amd64
+os.version=6.17.0-23-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
